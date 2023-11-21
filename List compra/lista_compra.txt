@@ -8,3 +8,5 @@
 - Pollo
 - Zanahorias
 - Peras
+- Aguacates
+- Limones
