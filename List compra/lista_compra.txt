@@ -5,3 +5,6 @@
 - Calabacín
 - Tomates
 - Patatas
+- Pollo
+- Zanahorias
+- Peras
